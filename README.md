@@ -1,5 +1,5 @@
 ### KEtaN V. Patel -- ELK Stack Project  
-#### _June 16, 2021 -- UofT Cybersecurity - Boot Camp_  
+#### _May 12, 2022 -- UofT Cybersecurity - Boot Camp_  
 
 Automated ELK Stack Deployment
 ==============================
@@ -360,4 +360,3 @@ As a **Bonus**, provide the specific commands the user will need to run to downl
 -------------------------------------------------------------------------------------------------------------
 
 Jai Shri Swaminarayan
-
